@@ -1,16 +1,16 @@
 {
-  "version": "8.0.0",
-  "min_version_required": "8.0.0",
+  "version": "8.0.1",
+  "min_version_required": "8.0.1",
   "force_update": true,
-  "patch_title": "Vanta Vision 8.0.0 — Remote Play Update",
+  "patch_title": "Vanta Vision 8.0.1 — Remote Play Update",
   "patch_notes": [
-    "New pre-loader output selector: Titan or Remote Play."
+    "Fixed Post Shots On Remote Play."
   ],
   "files": [
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://raw.githubusercontent.com/kosblaze-gif/updating/main/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "F0D4497E0171CB0252FFF721E47AC90334A6DE6E7736CA742B0E1EBB59CA1B0C"
+      "sha256": "72BFA2711E61524E3C0A7B6F715EBE965AD86E742B1608CA4AE44E64A7E5AED2"
     }
   ]
 }
