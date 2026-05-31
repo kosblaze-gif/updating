@@ -1,10 +1,10 @@
 {
-  "version": "7.1.4",
+  "version": "8.0.0",
   "files": [
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://raw.githubusercontent.com/kosblaze-gif/updating/main/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "D2A33566CC1F1CF83DB0FE87BDA7E92B3CD355642F96659A1734381B3C6A6B0E"
+      "sha256": "F0D4497E0171CB0252FFF721E47AC90334A6DE6E7736CA742B0E1EBB59CA1B0C"
     }
   ]
 }
