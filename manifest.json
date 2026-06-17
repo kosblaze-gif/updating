@@ -1,8 +1,8 @@
 {
-  "version": "10.0.0",
-  "min_version_required": "10.0.0",
+  "version": "11.0.0",
+  "min_version_required": "11.0.0",
   "force_update": true,
-  "patch_title": "Vanta Vision 10.0.0 — Consistency Update",
+  "patch_title": "Vanta Vision 11.0.0 — Consistency Update",
   "patch_notes": [
     "Many Bug Fixes To Give Users A Better Experience."
   ],
@@ -10,7 +10,7 @@
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://raw.githubusercontent.com/kosblaze-gif/updating/main/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "79D87887E3754179F5110144C471D0611401AA357D72932F55BE364356C622A5"
+      "sha256": "42CB6682DA9DA5A316C639706E1027FF4BB5B11EE304DE4DD6C5EE88DAC8EF60"
     }
   ]
 }
