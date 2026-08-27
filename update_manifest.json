@@ -1,8 +1,8 @@
 {
-  "version": "12.0.1",
-  "min_version_required": "12.0.1",
+  "version": "12.0.5",
+  "min_version_required": "12.0.5",
   "force_update": true,
-  "patch_title": "Deadeye CV 12.0.1 — 2k27 Consistency Update",
+  "patch_title": "Deadeye CV 12.0.5 — 2k27 Consistency Update",
   "patch_notes": [
     "Many Bug Fixes To Give Users A Better Experience."
   ],
