@@ -1,8 +1,8 @@
 {
-  "version": "11.0.1",
-  "min_version_required": "11.0.1",
+  "version": "12.0.1",
+  "min_version_required": "12.0.1",
   "force_update": true,
-  "patch_title": "Deadeye CV 11.0.1 — Consistency Update",
+  "patch_title": "Deadeye CV 12.0.1 — 2k27 Consistency Update",
   "patch_notes": [
     "Many Bug Fixes To Give Users A Better Experience."
   ],
@@ -10,7 +10,7 @@
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://raw.githubusercontent.com/kosblaze-gif/updating/main/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "5A655F0E461C119762E1D89ADC6D4B6315457CD27E2D00D366F9590C64B3954B"
+      "sha256": "9D45C8A76AC346DDBC92F145DB7B12FD9681ABF797A8489B075BC26031DF0E19"
     }
   ]
 }
