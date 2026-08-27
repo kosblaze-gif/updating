@@ -33,7 +33,7 @@ except Exception:
 APP_VERSION = "6.1.1"
 UPDATE_MANIFEST_URL = os.environ.get(
     "VANTA_UPDATE_MANIFEST_URL",
-    "https://raw.githubusercontent.com/kosblaze-gif/updatingvnta/main/update_manifest.json"
+    "https://raw.githubusercontent.com/kosblaze-gif/updating/main/update_manifest.json"
 ).strip()
 UPDATE_TIMEOUT_SECS = 20
 AUTO_CHECK_ON_OPEN = True
