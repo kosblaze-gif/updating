@@ -30,10 +30,10 @@ except Exception:
     tk = None
     messagebox = None
 
-APP_VERSION = "7.1.3"
+APP_VERSION = "6.1.1"
 UPDATE_MANIFEST_URL = os.environ.get(
     "VANTA_UPDATE_MANIFEST_URL",
-    "https://raw.githubusercontent.com/kosblaze-gif/updating/main/manifest.json"
+    "https://raw.githubusercontent.com/kosblaze-gif/updatingvnta/main/update_manifest.json"
 ).strip()
 UPDATE_TIMEOUT_SECS = 20
 AUTO_CHECK_ON_OPEN = True
@@ -54,7 +54,7 @@ PENDING_DIR = os.path.join(_HERE, "pending_update")
 LOCAL_MANIFEST_CACHE = os.path.join(_HERE, "update_manifest_cache.json")
 
 # Legacy fallback digest only. Preferred verification uses manifest pyd sha256.
-_E = "vnywbW4O1CdrGbEansGaeysmFqbBTocqZFAUdRtRnoI="
+_E = "6zPl0QOwL7LSv8N16U0/jeTo3ZbjzWX5cjKuBEepI28="
 _K = "dnYtdmlzaW9uLTIwMjYtcHJpdmF0ZS1idWlsZA=="
 
 BG = "#061326"
