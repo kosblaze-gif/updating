@@ -54,7 +54,7 @@ PENDING_DIR = os.path.join(_HERE, "pending_update")
 LOCAL_MANIFEST_CACHE = os.path.join(_HERE, "update_manifest_cache.json")
 
 # Legacy fallback digest only. Preferred verification uses manifest pyd sha256.
-_E = "g+VvwPJk7Xl4dUQ4YqO4GZWXx8qaJ1qVVZgN1Eu5QJI="
+_E = "YFMHMf1CgBhwsb/4usD+SHrS5CYBnAvFI+5vh/dZgLQ="
 _K = "dnYtdmlzaW9uLTIwMjYtcHJpdmF0ZS1idWlsZA=="
 
 BG = "#061326"
