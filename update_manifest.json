@@ -1,8 +1,8 @@
 {
-  "version": "12.0.5",
-  "min_version_required": "12.0.5",
+  "version": "13.0.0",
+  "min_version_required": "13.0.0",
   "force_update": true,
-  "patch_title": "Deadeye CV 12.0.5 — 2k27 Consistency Update",
+  "patch_title": "Deadeye CV 13.0.0 — 2k27 Consistency Update",
   "patch_notes": [
     "Many Bug Fixes To Give Users A Better Experience."
   ],
@@ -10,7 +10,7 @@
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://raw.githubusercontent.com/kosblaze-gif/updating/main/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "DC729057FDF2A6240835352471A6EB87D0421AE26B28FA8A3C8652148AEE4C2E"
+      "sha256": "F59342B69B1784161658760850959569E7FEB1ABEE4277F720F161B03DCF6DE4"
     }
   ]
 }
