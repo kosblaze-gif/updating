@@ -1,8 +1,8 @@
 {
-  "version": "13.0.0",
-  "min_version_required": "13.0.0",
+  "version": "14.0.0",
+  "min_version_required": "14.0.0",
   "force_update": true,
-  "patch_title": "Deadeye CV 12.0.5 — 2k27 Official Update",
+  "patch_title": "Deadeye CV 14.0.0 — 2k27 Vanta Official Update",
   "patch_notes": [
     "Many Bug Fixes To Give Users A Better Experience."
   ],
