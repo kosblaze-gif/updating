@@ -1,6 +1,6 @@
 {
-  "version": "15.2.5",
-  "min_version_required": "15.2.5",
+  "version": "15.2.6",
+  "min_version_required": "15.2.6",
   "force_update": true,
   "patch_title": "Deadeye CV 14.9.0 — 2k27 Vanta Half no meter Update",
   "patch_notes": [
@@ -10,7 +10,7 @@
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://raw.githubusercontent.com/kosblaze-gif/updating/main/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "D4B5A0E5EB0DA147EE7810BE8A5F46DCD9469B845BAE35A1703FBF07DD730B0B"
+      "sha256": "FA8EDBD4BB6E816B44343F0718631AC038CA96488241DB3BC1DA7F650D5A0216"
     }
   ]
 }
