@@ -1,16 +1,16 @@
 {
-  "version": "15.7.1",
+  "version": "15.7.2",
   "min_version_required": "15.3.0",
   "force_update": true,
   "patch_title": "Deadeye CV 15.6.2 — 2k27 Vanta Half no meter Update",
   "patch_notes": [
-    "New themes + better detection."
+    "titan fix, new ui + better detection."
   ],
   "files": [
     {
       "name": "_vv_core.cp311-win_amd64.pyd",
       "url": "https://github.com/kosblaze-gif/updating/releases/download/1.6.1/_vv_core.cp311-win_amd64.pyd",
-      "sha256": "7e96186ed6ce4195ec7b37b6a9ba2c14ed4203089b08b715d734020bb1eb55eb"
+      "sha256": "a7f55869eeb5acf3ce7103e51e5e3caf49cc3d107b22c67bb9182703a58582cb"
     }
   ]
 }
